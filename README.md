@@ -1,7 +1,5 @@
-# Hi There I'm Razaan
-
 ## Little things about me:
-I'm a Computer Science student with a strong passion for programming and graphic design. I have experience in Java and HTML/CSS, and I’m currently diving into the world of game development. I'm always eager to learn new technologies and turn creative ideas into real projects.
+Hi There my name is Razaan, I'm a Computer Science student with a strong passion for programming and graphic design. I have experience in Java and HTML/CSS, and I’m currently diving into the world of game development. I'm always eager to learn new technologies and turn creative ideas into real projects.
 
 ---
 
