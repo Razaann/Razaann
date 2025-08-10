@@ -16,3 +16,5 @@ Hi There my name is Razaan, I'm a Computer Science student with a strong passion
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razaann&layout=compact&theme=radical)
 
 ---
+
+[![Razaann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Razaann&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
