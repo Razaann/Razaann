@@ -22,7 +22,7 @@ Always thrilled to connect—whether you're into tech talk, idea sharing, or jus
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats:
 [![Razaann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Razaann&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
