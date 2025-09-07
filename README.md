@@ -25,4 +25,4 @@ Always thrilled to connect—whether you're into tech talk, idea sharing, or jus
 ---
 
 ## 📊 GitHub Stats:
-[![Razaann's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Razaann&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razaann&theme=dark&hide_border=false)
