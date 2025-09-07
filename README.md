@@ -1,5 +1,9 @@
-## Things about me:
-Hi There my name is Razaan, I'm a Computer Science student with a strong passion for programming and graphic design. I have experience in Java and HTML/CSS, and I’m currently diving into the world of game development. I'm always eager to learn new technologies and turn creative ideas into real projects.
+## 👋 Things about me:
+<p align="justify">
+  Hi There my name is Razaan, I'm a Computer Science student with a strong passion for <b>Programming</b> & <b>Graphic Design</b>. 
+  I have experience in Java and HTML/CSS, and I’m currently diving into the world of <b>Game Development</b> especially <b>Godot</b>. 
+  I'm always eager to learn new technologies and turn creative ideas into real projects.
+</p>
 
 ---
 
@@ -25,4 +29,4 @@ Always thrilled to connect—whether you're into tech talk, idea sharing, or jus
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razaann&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Razaann&theme=ambient-gradient)](https://github.com/Razaann)
