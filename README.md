@@ -29,4 +29,4 @@ Always thrilled to connect—whether you're into tech talk, idea sharing, or jus
 ---
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Razaann&theme=ambient-gradient)](https://github.com/Razaann)
+![GitHub Streak](https://streak-stats.demolab.com?user=Razaann&theme=ambient-gradient)
